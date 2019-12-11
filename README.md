@@ -1,7 +1,7 @@
 # Bertelsmann-Arvato-Project-Workspace
 The aim of this project was to create a customer segmentation Report for Arvato Financial Services, so that the efficiency of the customer acquisition process of a mail-order company can be increased. 
 
-Installations
+## Installations
 For the development of the project, the following Python libraries were required: 
 
 Matplotlib
@@ -10,7 +10,7 @@ Numpy
 Scikit-learn
 In addition, Python 3 was used. 
 
-Summary:
+## Summary:
 Arvato Financial Solutions provided the data and outline of this project for the second term of the Data Scientists Nanodegree of Udacity. The main objective was to increase the efficiency of the customer acquisition process of a mail-order company.
 
 The project has three major steps: 
@@ -21,7 +21,7 @@ Within this part, a third dataset is provided with attributes from targets of a 
 3. Kaggle Competition
 Once the model is chosen, predictions on the campaign data are calculated as part of a Kaggle Competition. 
 
-Data
+## Data
 Udacity_AZDIAS_052018.csv: Demographics data for the general population of Germany; 891 211 persons (rows) x 366 features (columns).
 Udacity_CUSTOMERS_052018.csv: Demographics data for customers of a mail-order company; 191 652 persons (rows) x 369 features (columns).
 Udacity_MAILOUT_052018_TRAIN.csv: Demographics data for individuals who were targets of a marketing campaign; 42 982 persons (rows) x 367 (columns).
@@ -30,5 +30,5 @@ In addition, the " AZDIAS_Feature_Summary.csv" from the previous project was add
 
 We are not allowed to publish the data provided by Arvato Financial Services due to the terms and conditions.
 
-Author
+## Author
 Jessica Garre Morales
