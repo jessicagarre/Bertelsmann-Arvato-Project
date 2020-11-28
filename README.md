@@ -3,13 +3,13 @@
 The aim of this project was to create a customer segmentation Report for Arvato Financial Services, so that the efficiency of the customer acquisition process of a mail-order company can be increased. 
 
 ### Installations
-For the development of the project, the following Python libraries were required: 
 
-Matplotlib
-Pandas
-Numpy
-Scikit-learn
-In addition, Python 3 was used. 
+This project requires **Python 3.x** and the following Python libraries installed:
+
+- [NumPy](http://www.numpy.org/)
+- [Pandas](http://pandas.pydata.org)
+- [matplotlib](http://matplotlib.org/)
+- [scikit-learn](http://scikit-learn.org/stable/)
 
 ### Summary
 Arvato Financial Solutions provided the data and outline of this project for the second term of the Data Scientists Nanodegree of Udacity. The main objective was to increase the efficiency of the customer acquisition process of a mail-order company.
